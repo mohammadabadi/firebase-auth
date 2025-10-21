@@ -45,8 +45,8 @@ src/
 
 ## 🧩 Setup & Installation
 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 Then open the app in your browser at
 👉 http://localhost:5173
